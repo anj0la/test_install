@@ -1,3 +1,4 @@
+# DEPR: this is deprecated
 def main():
     print("Hello from test-install!")
     
