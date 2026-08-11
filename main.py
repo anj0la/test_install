@@ -1,4 +1,4 @@
-# TODO: What to do
+# TODO: What to do with this function
 def main():
     print("Hello from test-install!")
     
