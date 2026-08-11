@@ -1,4 +1,4 @@
-# TODO: A test comment that should open an issue
+# BUG: This is a bug!
 def main():
     print("Hello from test-install!")
 # EOF
