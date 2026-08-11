@@ -1,4 +1,3 @@
-# DEPR: This is deprecated!
 def main():
     print("Hello from test-install!")
 # EOF
