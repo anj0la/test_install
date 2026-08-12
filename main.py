@@ -1,4 +1,3 @@
-# BUG: Fix me!
 def main():
     print("Hello from test-install!")
 
